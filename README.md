@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ciprianfarcas
-- 👀 I’m interested in c/ c++/ Python
-- 🌱 I’m currently learning progarming languages at this moment for embadded systems
+- 👀 I’m interested in c/ c++/
 
 
 <!---
